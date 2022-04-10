@@ -8,4 +8,15 @@
 
 Заведение и уход
 -------------------------
-[!TIP] Заводя хомячков, имейте в виду, что размножаются они в геометрической прогрессии. Но эта проблема решается, если взять только одного зверька любого пола. Он вполне проживет один.
+[[!NOTE]Заводя хомячков, имейте в виду, что размножаются они в геометрической прогрессии. Но эта проблема решается, если взять только одного зверька любого пола. Он вполне проживет один.]
+
+[!IMPORTANT]
+> Essential information required for user success.
+
+|`NOTE` | This is something I want you to notice. It has a lot of text, and I want that text to wrap within a cell to the right of the `NOTE`, instead of under it.|
+
+[!TIP]
+> Optional information to help a user be more successfulи в геометрической прогрессии. Но эта проблема решается, если взять только одного зверька любого пола. Он вполне проживет один.
+
+> [!WARNING]
+> Dangerous certain consequences of an action
